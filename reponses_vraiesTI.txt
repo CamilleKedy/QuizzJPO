@@ -1,6 +1,0 @@
-D:  Toutes les reponses
-B:  Wide Area Network
-B:  1 byte
-A:  Custom Firmware
-A:  Apple
-B:  Intel 6500U
