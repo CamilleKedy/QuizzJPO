@@ -1,0 +1,31 @@
+Lequel de ces logiciels est un OS ?
+A:  Linux
+B:  Windows
+C:  Chrome OS
+D:  Toutes les reponses
+Que signifie WAN ?
+A:  World Area Network
+B:  Wide Area Network
+C:  Week Area Network
+D:  Aucune reponse juste
+CONVERSION :  1 octet =
+A:  16 bits
+B:  1 byte
+C:  8 bytes
+D:  Aucune reponse
+Que signifie CFW ?
+A:  Custom Firmware
+B:  Crown Firmware
+C:  Aucune reponse
+D:  A et B
+La firme de Cuppertino est le surnom de :
+A:  Apple
+B:  Microsoft
+C:  IBM
+D:  Aucune reponse
+Lequel de ces processeur est de la 6e generation ?
+A:  Intel 3200K
+B:  Intel 6500U
+C:  AMD A6
+D:  Intel HD 620
+

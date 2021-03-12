@@ -1,0 +1,12 @@
+A la base il était prevu de faire un jeu de quizz multijoueurs
+mais nous n'avons pas pu atteindre cet objectif à cause de la
+pandemie du coronavirus et de nos creneaux horaires tres charges
+en classe prépa.
+
+Nous avons fait du mieux que nous pouvons pour vous proposer un
+mode solo et une experience de jeu agreable avec ces limitations 
+et le peu de connaissances que nous avons en langage C.
+
+Nous vous souhaitons donc de passer du bon temps sur ce jeu.
+
+Les Createurs.

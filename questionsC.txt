@@ -1,0 +1,30 @@
+Hydroxyde de Sodium :
+A:  NaOH
+B:  ONaH
+C:  OHNa
+D:  HnaO
+Le poids est egal a :
+A:  volume*acceleration
+B:  masse specifique*acceleration
+C:  masse*vitesse
+D:  Aucune reponse juste
+La lumiere est une onde :
+A:  photostatique
+B:  luminescente
+C:  mecanique
+D:  chimique
+Les ultraviolets sont des radiations de longueur d'onde :
+A:  Inferieure au violet
+B:  Superieure au violet
+C:  Et de frequence nulle
+D:  Aucune reponse
+En terme de longueur 1 Angstrom est egal a :
+A:  10^(-15) m
+B:  10^(-5) m
+C:  10^(-10) m
+D:  10^(-12) m
+Il a pose les bases de la theorie du chaos deterministe :
+A:  Lorenz
+B:  Einstein
+C:  Poincare
+D:  Newton

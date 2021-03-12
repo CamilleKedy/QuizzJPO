@@ -1,0 +1,22 @@
+Rédigé par KEDY YA YOMBO Albert Camille
+-------------------------------------------------------------------------------
+
+Ce jeu cree par les etudiants de la promo 13 de PrepaVogt :
+KEDY YA YOMBO Albert Camille et LYLI NDIANUM Yann Karim 
+est le résultat de journees entieres de sacrifices et d'efforts.
+
+Nous le remettons dans sa version Beta entre les mains de nos cadets avec 
+la possibilite de modifier son code source comme bon leur semble mais a 
+condition que :
+
+1) Les noms des deux createurs soient toujours associes aux prochaines versions
+si elles venaient a voir le jour;
+
+2) Le jeu ne soit pas utilise a des fins de paris, gain d'argent, ou pour faire
+plus bref des fins suceptibles de degrader l'image de ses createurs ainsi que 
+de Prepavogt.
+
+Merci de les respecter.
+
+Nous sommes disponibles pour des retours à l'adresse mail :
+camillekedy2017@gmail.com

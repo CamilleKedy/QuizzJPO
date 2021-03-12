@@ -1,0 +1,30 @@
+"Science sans conscience n'est que ruine de l'ame."
+A:  Victor Hugo
+B:  Rabelais
+C:  Von Neuemann
+D:  Aristote
+"Je pense, donc je suis"
+A:  Corneille
+B:  Aucune reponse
+C:  Rene Descartes
+D:  Isaac Newton
+Je suis l'auteur du livre "Les Miserables" :
+A:  John Wick
+B:  John Mitchell
+C:  Yves Boileau
+D:  Aucune reponse
+Pierre Corneille en est l'auteur :
+A:  Le Cidre
+B:  Le Cide
+C:  Le Cid
+D:  Le Sid
+La 1ere guerre mondiale a lieu de :
+A:  1914-1928
+B:  1924-1928
+C:  1814-1818
+D:  1914-1918
+La guerre des 100 ans dure en realite :
+A:  100 ans
+B:  4 ans
+C:  10 ans
+D:  Aucune reponse
