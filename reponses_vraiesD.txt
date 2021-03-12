@@ -1,6 +1,0 @@
-D:  Acide Desoxyribo Nucleique
-B:  Mitochondrie
-D:  Aucune reponse
-B:  Le femur
-A:  Hydrogene
-B:  Homo Habilis
