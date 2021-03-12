@@ -1,6 +1,0 @@
-A:  NaOH
-D:  Aucune reponse
-C:  mecanique
-A:  Inferieure au violet
-C:  10^(-10) m
-C:  Poincare
